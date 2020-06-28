@@ -141,6 +141,8 @@ def main():
             else:
                 name = "Remove"
             question = yesno(name + " " + package + "? (y/n): ")
+            if name == "Remove":
+                name = "Remov"
             if package == "aion":
                 if question is True:
                     question = yesno("Should your personal data ('/etc/aion_data/': custom skills / plugins, version saves, language files, ...) deleted as well? (y/n): ")
