@@ -99,23 +99,23 @@ Commands:
 
 # Todo
 
--[ ] LED support for respeaker users
--[ ] other logger
--[ ] bluetooth module to connect with phone and play music
--[ ] better commandline support
--[ ] spotify support (for the "play" voice command)
--[ ] watcher process to monitor the main process
--[ ] tutorials
--[ ] better description for the classes and functions
--[ ] ai based speech recognition engine
--[ ] ai based text-to-speech engine
+- [ ] LED support for respeaker users
+- [ ] other logger
+- [ ] bluetooth module to connect with phone and play music
+- [ ] better commandline support
+- [ ] spotify support (for the "play" voice command)
+- [ ] watcher process to monitor the main process
+- [ ] tutorials
+- [ ] better description for the classes and functions
+- [ ] ai based speech recognition engine
+- [ ] ai based text-to-speech engine
 
 # Other Projects
 
--[x] support library (see [aionlib](https://github.com/blueShard-dev/aionlib))
--[ ] gui interface
--[ ] aion for windows
--[ ] (android) app for phones
+- [x] support library (see [aionlib](https://github.com/blueShard-dev/aionlib))
+- [ ] gui interface
+- [ ] aion for windows
+- [ ] (android) app for phones
 
 # License
 
