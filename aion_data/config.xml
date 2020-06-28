@@ -1,0 +1,11 @@
+<config>
+  <aion>
+    <hotword_file>/usr/local/aion-*/etc/Aion.pmdl</hotword_file>
+    <language>en_US</language>
+    <listening_mode>auto</listening_mode>
+    <pid_manipulation_number>4</pid_manipulation_number>
+	<stt_engine>pocketsphinx</stt_engine>
+	<time_format>12</time_format>
+    <tts_engine>pico2wave</tts_engine>
+  </aion>
+</config>
