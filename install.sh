@@ -5,6 +5,7 @@ current_directory=$PWD
 printf "\n-----copying aion shell to /usr/bin...-----\n"
 
 if [ ! -f /usr/bin/aion ]; then
+	chmod +x /usr/bin/aion
 	cp aion /usr/bin/
 fi
 
