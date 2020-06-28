@@ -1,0 +1,19 @@
+<en_US>
+  <skills.cpu_ram_usage>The processor uses {cpu_usage} and the ram {ram_usage} percent</skills.cpu_ram_usage>
+  <skills.cpu_usage>The processor uses {cpu_usage} percent</skills.cpu_usage>
+  <skills.current_time_full_am>It's {hour} a.m.</skills.current_time_full_am>
+  <skills.current_time_full_pm>It's {hour} p.m.</skills.current_time_full_pm>
+  <skills.current_time_half_am>It's half past {hour} a.m.</skills.current_time_half_am>
+  <skills.current_time_half_pm>It's half past {hour} p.m.</skills.current_time_half_pm>
+  <skills.current_time_past_am>It's {minute} past {hour} a.m.</skills.current_time_past_am>
+  <skills.current_time_past_pm>It's {minute} past {hour} p.m.</skills.current_time_past_pm>
+  <skills.current_time_to_am>It's {minute} to {hour} a.m.</skills.current_time_to_am>
+  <skills.current_time_to_pm>It's {minute} to {hour} p.m.</skills.current_time_to_pm>
+  <skills.current_time_full>It's {hour} o'clock</skills.current_time_full>
+  <skills.current_time_half>It's half past {hour}</skills.current_time_half>
+  <skills.current_time_etc>It's {hour} {minute}</skills.current_time_etc>
+  <skills.ip_address>My IP is {ip_address}</skills.ip_address>
+  <skills.ram_usage>The ram uses {ram_usage} percent</skills.ram_usage>
+  <skills.wikipedia>{article_text}</skills.wikipedia>
+  <skills.wikipedia_article_not_found>The article {article_name} doesnt exist</skills.wikipedia_article_not_found>
+</en_US>

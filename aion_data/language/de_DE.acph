@@ -1,0 +1,10 @@
+<activate_phrases>
+  <erzähle__and__über skill="skills" method="Wikipedia"/>
+  <erzähl__and__über skill="skills" method="Wikipedia"/>
+  <ip-adresse skill="skills" method="IpAddress"/>
+  <prozessor_auslastung skill="skills" method="CpuUsage"/>
+  <spiele skill="skills" method="Play"/>
+  <spiel skill="skills" method="Play"/>
+  <uhr skill="skills" method="CurrentTime"/>
+  <zeit skill="skills" method="CurrenTime"/>
+</activate_phrases>

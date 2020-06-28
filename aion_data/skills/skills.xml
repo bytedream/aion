@@ -1,0 +1,10 @@
+<skills>
+  <skills author="blueShard">
+    <additional_directories>None</additional_directories>
+	<description>The official skill library</description>
+	<license>MIT</license>
+	<main_file>skills.py</main_file>
+	<required_python3_packages>['psutil', 'statistics', 'Wikipedia-API']</required_python3_packages>
+	<version>1.0.0</version>
+  </skills>
+</skills>

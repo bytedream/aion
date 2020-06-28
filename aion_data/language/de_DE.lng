@@ -1,0 +1,19 @@
+<de_DE>
+  <skills.cpu_ram_usage>Der Prozessor wird zu {cpu_usage} und der RAM zu {ram_usage} prozent genutzt</skills.cpu_ram_usage>
+  <skills.cpu_usage>Der Prozessor wird zu {cpu_usage} genutzt</skills.cpu_usage>
+  <skills.current_time_full_am/>
+  <skills.current_time_full_pm/>
+  <skills.current_time_half_am/>
+  <skills.current_time_half_pm/>
+  <skills.current_time_past_am/>
+  <skills.current_time_past_pm/>
+  <skills.current_time_to_am/>
+  <skills.current_time_to_pm/>
+  <skills.current_time_full>Es ist {hour} Uhr</skills.current_time_full>
+  <skills.current_time_half>Es ist {hour} Uhr {minute}</skills.current_time_half>
+  <skills.current_time_etc>Es ist {hour} Uhr {minute}</skills.current_time_etc>
+  <skills.ip_address>Meine IP ist {ip_address}</skills.ip_address>
+  <skills.ram_usage>Der RAM wird zu {ram_usage} prozent genutzt</skills.ram_usage>
+  <skills.wikipedia>{article_text}</skills.wikipedia>
+  <skills.wikipedia_article_not_found>Der Artikel {article_text} existiert nicht</skills.wikipedia_article_not_found>
+</de_DE>

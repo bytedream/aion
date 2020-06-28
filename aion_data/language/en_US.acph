@@ -1,0 +1,10 @@
+<activate_phrases>
+  <cpu_usage skill="skills" method="CpuUsage"/>
+  <ip_address skill="skills" method="IpAddress"/>
+  <play skill="skills" method="Play"/>
+  <processor_usage skill="skills" method="CpuUsage"/>
+  <ram_usage skill="skills" method="RamUsage"/>
+  <tell__and__about skill="skills" method="Wikipedia"/>
+  <time skill="skills" method="CurrentTime"/>
+  <virtual_memory_usage skill="skills", method="RamUsage"/>
+</activate_phrases>
