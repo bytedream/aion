@@ -22,7 +22,7 @@ To install **aion** for Linux / UNIX (only tested on Raspberry Pi 3B+ with Raspb
 $ sudo apt-get upgrade && sudo apt-get update
 $ sudo apt-get install git
 $ sudo git clone https://github.com/blueShard-dev/aion
-$ cd aion_project
+$ cd aion
 $ sudo ./install.sh  # if this won't work, type 'sudo bash install.sh' instead
 ```
 
