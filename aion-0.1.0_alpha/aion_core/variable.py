@@ -2,7 +2,7 @@
 
 _aion_variable_file = "/tmp/aion39ewefv90erfte25"
 
-_default_variables = {"IS_AION_RUNNING": False}
+_default_variables = {"IS_AION_RUNNING": "False"}
 
 IS_AION_RUNNING = "IS_AION_RUNNING"
 
